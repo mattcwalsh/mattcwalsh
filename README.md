@@ -1,5 +1,9 @@
 ### Matt C. Walsh (@mattcwalsh)
 
+During the day, I'm a security researcher studying mobile app security and privacy.
+
+During evenings and weekends, I create mobile apps and video games.
+
 <!--
 **mattcwalsh-dev/mattcwalsh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
